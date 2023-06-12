@@ -1,0 +1,34 @@
+# First few steps for PA28 preflight
+
+title: PA-28 Preflight
+sections:
+  - section: Preliminary
+    steps:
+      - title: Future Taxying
+        content: |
+          * Aircraft is unobstructed for taxying
+      - title: Spillages
+        content: |
+          * No fuel, oil or hydraulic spillages
+      - title: Defrosting
+        content: |
+          * All ice is removed from aircraft surfaces -- internal and external
+      - title: Breaks
+        content: |
+          * Breaks *on*
+      - title: Ties
+        content: |
+          * Ties *down*
+      - title: Pitot Cover
+        content: |
+          * Pitot cover *removed*
+
+  - section: In Cabin
+    steps:
+      - title: Locks
+        content: |
+          * Cabin locks and covers are removed and stowed
+      - title: Magnetos
+        content: |
+          * Magneto switches are **off**
+          * Key is removed
